@@ -1,6 +1,6 @@
 # Amazon Smbhav Hackathon 2024
 
-This project intends to solve the **Theme 1** of the [Amazon Smbhav Hackathon](https://amazonsmbhav2024.hackerearth.com/challenges/hackathon/smbhav2024/custom-tab/theme-1/#theme-1)
+This project intends to solve the [Theme 1](https://amazonsmbhav2024.hackerearth.com/challenges/hackathon/smbhav2024/custom-tab/theme-1/#theme-1) of the [Amazon Smbhav Hackathon](https://amazonsmbhav2024.hackerearth.com/)
 
 ### Goal
 
@@ -9,9 +9,10 @@ This project intends to solve the **Theme 1** of the [Amazon Smbhav Hackathon](h
 ### Tech Stack
 
 - Frontend
-  - React
+  - React: The Client Directory has the code for the frontend
 - Backend
   - Express,
+  - The server directory contains the code for the backend
 - Database
   - PostgreSQL
 - Generative AI
