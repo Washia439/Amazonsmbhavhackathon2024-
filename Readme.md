@@ -14,6 +14,6 @@ This project intends to solve the [Theme 1](https://amazonsmbhav2024.hackerearth
   - Express,
   - The server directory contains the code for the backend
 - Database
-  - PostgreSQL
+  - MySQL
 - Generative AI
   - OpenAI
